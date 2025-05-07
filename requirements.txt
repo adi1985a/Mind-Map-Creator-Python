@@ -1,0 +1,9 @@
+PyQt5>=5.15.0
+networkx>=2.6.3
+nltk>=3.6.5
+spacy>=3.2.0
+graphviz>=0.19.1
+pytest>=6.2.5
+cryptography>=36.0.0
+pillow>=8.4.0
+numpy>=1.21.4
